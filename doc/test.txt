@@ -1,9 +1,0 @@
-test.txt
-
-it is a test!
-
-it is a test2!
-
-it is a test3
-
-it is a test4;
